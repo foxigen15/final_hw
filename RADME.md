@@ -8,5 +8,4 @@
 2. Java
 3. GIT
 
-<img src="file:///192.168.1.45/homes/admin/Android-developer/git/final hw/img/pic.jpg" />
-
+![Image alt](https://github.com/foxigen15/final_hw/raw/main/img/pic.jpg)
